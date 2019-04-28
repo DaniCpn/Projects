@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\bin\Debug\Labyrinthe.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\Labyrinthe\Labyrinthe\obj\Debug\Labyrinthe.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\bin\Debug\JeudelaVie.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\obj\Debug\JeudelaVie.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\bin\Debug\JeudelaVie.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\bin\Debug\JeudelaVie.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\obj\Debug\JeudelaVie.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\JeudelaVie\JeudelaVie\obj\Debug\JeudelaVie.pdb

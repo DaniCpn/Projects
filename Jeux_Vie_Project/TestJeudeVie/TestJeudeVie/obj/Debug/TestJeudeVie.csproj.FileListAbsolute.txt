@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\TestJeudeVie\TestJeudeVie\bin\Debug\TestJeudeVie.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\TestJeudeVie\TestJeudeVie\bin\Debug\TestJeudeVie.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\TestJeudeVie\TestJeudeVie\bin\Debug\TestJeudeVie.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\TestJeudeVie\TestJeudeVie\obj\Debug\TestJeudeVie.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\L2\ProgS1\TestJeudeVie\TestJeudeVie\obj\Debug\TestJeudeVie.pdb

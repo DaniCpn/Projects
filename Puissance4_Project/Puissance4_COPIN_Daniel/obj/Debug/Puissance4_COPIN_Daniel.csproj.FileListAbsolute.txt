@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\bin\Debug\Puissance4_COPIN_Daniel.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\bin\Debug\Puissance4_COPIN_Daniel.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\bin\Debug\Puissance4_COPIN_Daniel.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\bin\Debug\Puissance4_GUI.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\obj\Debug\Puissance4_COPIN_Daniel.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\obj\Debug\Puissance4_COPIN_Daniel.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\ProgS2\Puissance4_COPIN_Daniel\Puissance4_COPIN_Daniel\obj\Debug\Puissance4_COPIN_Daniel.pdb

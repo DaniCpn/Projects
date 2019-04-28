@@ -1,0 +1,17 @@
+RollerCoaster;True;00:00:00;112;False;/;8;Montagnes slaves de la mort;True;vampire;10;bobsleigh;1,2
+DarkRide;False;00:00:00;888;False;/;10;DarkRide 2;False;/;00:45:00;True
+RollerCoaster;False;00:00:00;795;False;/;5;Le RC de l'enfer;True;/;18;assise;160
+Boutique;False;00:00:00;785;False;/;7;Nourriture des enfers;True;/;nourriture
+DarkRide;False;00:00:00;777;False;/;10;DarkRide 1;False;/;00:30:00;False
+Boutique;False;00:00:00;684;False;/;1;Barbe Noire;True;;barbeAPapa
+Boutique;False;00:00:00;666;False;/;1;Barbe A Papa des Reclus;True;/;barbeAPapa
+DarkRide;False;00:00:00;999;False;/;1;DarkRide 3;False;/;00:30:00;False
+Boutique;False;00:00:00;623;False;/;3;Aux surprises de satan;True;;souvenir
+Spectable;False;00:00:00;523;False;/;4;Thriller;True;;Nergal;144;10:15 12:15 14:15 16:15
+Spectable;False;00:00:00;458;False;/;10;Le rodéo de l'enfer;True;/;OKLAOMA;200;10:15 12:15 14:15 16:15
+Spectable;False;00:00:00;444;False;/;8;Spectacle 1;False;/;SALABA;150;10:15 12:15 14:15 16:15
+DarkRide;True;00:00:00;428;False;/;15;Train Fantome;True;zombie;00:00:00;True
+Boutique;False;00:00:00;236;False;/;3;Barbe A Papa Candice;True;/;barbeAPapa
+Boutique;False;00:00:00;128;False;/;4;Souvenir Gadji;True;/;souvenir
+Boutique;False;00:00:00;7474;False;/;7;DDD;False;/;souvenir
+RollerCoaster;False;05:30:00;555;True;ZZZ;45;RollerCoaster de la Nuit;False;/;12;assise;1,5

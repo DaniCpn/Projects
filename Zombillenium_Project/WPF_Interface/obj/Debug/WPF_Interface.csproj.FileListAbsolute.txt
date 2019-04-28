@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\bin\Debug\WPF_Interface.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\bin\Debug\WPF_Interface.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\bin\Debug\WPF_Interface.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\WPF_Interface\obj\Debug\WPF_Interface.pdb

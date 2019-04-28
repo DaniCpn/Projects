@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\bin\Debug\Equation_Project.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\bin\Debug\Equation_Project.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\bin\Debug\Equation_Project.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\obj\Debug\Equation_Project.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\obj\Debug\Equation_Project.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\UTS Projects\P.NET\Equation_Project\Equation_Project\obj\Debug\Equation_Project.pdb

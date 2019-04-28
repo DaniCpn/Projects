@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\Zombillenium\Zombillenium\bin\Debug\Zombillenium.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\Zombillenium\bin\Debug\Zombillenium.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\Zombillenium\bin\Debug\Zombillenium.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\Zombillenium\obj\Debug\Zombillenium.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\Zombillenium\obj\Debug\Zombillenium.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Zombillenium\Zombillenium\obj\Debug\Zombillenium.pdb
